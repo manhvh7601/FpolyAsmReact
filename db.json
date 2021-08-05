@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": "y6xygtc45",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-reactjs.appspot.com/o/images%2F117792801_757454378374865_8959500852766817568_n.jpg?alt=media&token=1c2853a2-6801-4706-a998-03cb09f23922",
+      "category": "undefined",
+      "name": "Monster2",
+      "price": "400000",
+      "status": "1",
+      "description": "ok"
+    },
+    {
+      "id": "8aqg3st0m",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-reactjs.appspot.com/o/images%2Fsp5.png?alt=media&token=c41b9079-eb89-4215-8192-313906f3fb50",
+      "name": "Monster2",
+      "price": "1",
+      "status": "1",
+      "category": "66047482113258",
+      "description": "ok212"
+    },
+    {
+      "id": "li6w3yizh",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-reactjs.appspot.com/o/images%2Fsp2.jpg?alt=media&token=dbffc300-a6f3-49c6-936c-c7f2b8a71594",
+      "name": "Narco",
+      "price": "52213",
+      "status": "1",
+      "category": "0148074702603",
+      "description": "okok"
+    },
+    {
+      "id": "zavafjtd2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-reactjs.appspot.com/o/images%2FSp1.jpg?alt=media&token=520ab927-26cb-443f-80ee-c5f94599dcaa",
+      "name": "Monster 3",
+      "price": "40000",
+      "status": "1",
+      "category": "1",
+      "description": "ok2"
+    },
+    {
+      "id": "w4z3tno4z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-reactjs.appspot.com/o/images%2FSp3.jpg?alt=media&token=ec1d8f46-1bc3-408b-8f91-48fc0e39528e",
+      "name": "Product01",
+      "price": "4",
+      "status": "1",
+      "category": "1",
+      "description": "ok212"
+    },
+    {
+      "id": "lxzdnibg3",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-reactjs.appspot.com/o/images%2Fsp4.png?alt=media&token=592c8bf1-3d64-4bef-8afa-6be0300631e6",
+      "name": "Monster4",
+      "price": "513",
+      "status": "1",
+      "category": "1",
+      "description": "ok212"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Category 1"
+    },
+    {
+      "id": "0148074702603",
+      "name": "Cate 1"
+    },
+    {
+      "id": "66047482113258",
+      "name": "Cate 112"
+    }
+  ],
+  "users": [
+    {
+      "email": "vumanh7621@gmail.com",
+      "password": "$2a$10$GcrIv2MPCKfJoLk7.4S6PewyA4L.3WFNo/z.JlLXJjNw2gJAy0sTW",
+      "name": "Manh Vu",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$eRi7lJWGJZ9YTvsBhaqaH.CF6fAjWEyga/F5y0zQh7J9Xzx02vAz.",
+      "name": "admin",
+      "id": 2
+    }
+  ]
+}
